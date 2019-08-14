@@ -1,0 +1,1 @@
+package com.xiaopengwei.thread.t6;/** * <p> * * @author XiaoPengwei * @since 2019-04-24 */public class MyThreadGetId {    public static void main(String[] args) {        Thread runThread = Thread.currentThread();        System.out.println(runThread.getName() + " " + runThread.getId());    }}
