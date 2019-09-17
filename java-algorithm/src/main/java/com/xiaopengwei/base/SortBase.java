@@ -1,4 +1,4 @@
-package com.xiaopengwei.algorithmv4.base;
+package com.xiaopengwei.base;
 
 /**
  * <p>
