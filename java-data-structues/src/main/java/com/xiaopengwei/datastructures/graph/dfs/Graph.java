@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph.dfs;
 /**
  * 演示图(无向)的深度优先遍历
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Graph {
 	/**

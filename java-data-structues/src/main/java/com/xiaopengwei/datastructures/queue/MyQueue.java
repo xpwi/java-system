@@ -4,13 +4,13 @@ package com.xiaopengwei.datastructures.queue;
  * <p>
  *   
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  * @since 2019-04-23
  */
 /**
  * 演示基本的队列，循环队列
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class MyQueue {
     /**

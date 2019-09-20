@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.superiorsort;
 /**
  * 演示快速排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class QuickSort {
     /**

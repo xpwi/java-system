@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.rbtree;
 /**
  * 演示红黑树的操作
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class RBTree {
     /**

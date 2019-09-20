@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.heap;
 /**
  * 演示堆排序操作的对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class HeapSort {
     private Node[] heapArray;

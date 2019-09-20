@@ -11,21 +11,20 @@ import java.util.Stack;
  */
 public class BinaryTree {
     /**
-     * 前序遍历递归的方式
+     * 前序遍历 - 递归的方式
      * @param root BinaryTreeNode
      */
     public void preOrder(BinaryTreeNode root) {
         if (null != root) {
             System.out.print(root.getData() + "\t");
-            // root.getLeft() 执行完，再执行 root.getRight()
-            // 会一直找左子节点，直到没有左子节点，返回上一层
+            // root.getLeft() 执行完，再执行 root.getRight() 会一直找左子节点，直到没有左子节点，返回上一层，找右节点
             preOrder(root.getLeft());
             preOrder(root.getRight());
         }
     }
 
     /**
-     * 前序遍历非递归的方式
+     * 前序遍历 - 非递归的方式
      * @param root BinaryTreeNode
      */
     public void preOrderNonRecursive(BinaryTreeNode root) {
@@ -44,7 +43,9 @@ public class BinaryTree {
         }
     }
 
-    //中序遍历采用递归的方式
+    /**
+     * 中序遍历 - 采用递归的方式
+     */
     public void inOrder(BinaryTreeNode root) {
         if (null != root) {
             inOrder(root.getLeft());
@@ -53,7 +54,9 @@ public class BinaryTree {
         }
     }
 
-    //中序遍历采用非递归的方式
+    /**
+     * 中序遍历 - 采用非递归的方式
+     */
     public void inOrderNonRecursive(BinaryTreeNode root) {
         Stack<BinaryTreeNode> stack = new Stack<BinaryTreeNode>();
         while (true) {
@@ -70,7 +73,9 @@ public class BinaryTree {
         }
     }
 
-    //后序遍历采用递归的方式
+    /**
+     * 后序遍历 - 采用递归的方式
+     */
     public void postOrder(BinaryTreeNode root) {
         if (root != null) {
             postOrder(root.getLeft());
@@ -79,7 +84,9 @@ public class BinaryTree {
         }
     }
 
-    //后序遍历采用非递归的方式
+    /**
+     * 后序遍历采用非递归的方式
+     */
     public void postOrderNonRecursive(BinaryTreeNode root) {
         Stack<BinaryTreeNode> stack = new Stack<BinaryTreeNode>();
         while (true) {

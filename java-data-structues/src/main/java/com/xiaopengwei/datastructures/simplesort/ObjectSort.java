@@ -5,7 +5,7 @@ import com.xiaopengwei.datastructures.simplesort.model.UserModel;
 /**
  * 排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class ObjectSort {
     public void objectSort(UserModel[] ums) {

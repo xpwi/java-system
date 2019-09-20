@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph2.path;
 /**
  * 封装带权图的顶点对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Vertex {
 	private String label;

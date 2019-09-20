@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.linklist;
 /**
  * 演示使用链表来实现栈的操作
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class MyLinkListStack {
 	private SingleLinkList theList = new SingleLinkList();

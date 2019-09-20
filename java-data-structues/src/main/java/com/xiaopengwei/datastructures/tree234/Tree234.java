@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.tree234;
 /**
  * 演示2-3-4树的操作
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Tree234 {
     private Node234 root = new Node234();

@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.binarytree;
 /**
  * 用来封装二叉树的节点对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Node {
 	private int id;

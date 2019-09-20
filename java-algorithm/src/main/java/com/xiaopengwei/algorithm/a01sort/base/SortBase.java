@@ -1,4 +1,4 @@
-package com.xiaopengwei.algorithm.sort.base;
+package com.xiaopengwei.algorithm.a01sort.base;
 
 /**
  * <p>

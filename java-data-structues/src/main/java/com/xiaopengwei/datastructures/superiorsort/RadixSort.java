@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.superiorsort;
 /**
  * 演示基数排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class RadixSort {
     /**

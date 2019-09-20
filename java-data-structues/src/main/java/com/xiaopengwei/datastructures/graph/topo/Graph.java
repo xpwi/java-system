@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph.topo;
 /**
  * 演示有向图的拓扑排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Graph {
 	/**

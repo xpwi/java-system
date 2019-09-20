@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.linklist;
 /**
  * 演示双向链表
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class DoubleLinkList {
     private LinkNode2 first;

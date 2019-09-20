@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.linklist;
 /**
  * 排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class SortedBySortedLinkList {
     public int[] sort(int[] as) {

@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph2.mst;
 /**
  * 封装带权图的边的对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Edge {
 	/**

@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.heap;
 /**
  * 用来封装树中的节点对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Node {
     private int id;

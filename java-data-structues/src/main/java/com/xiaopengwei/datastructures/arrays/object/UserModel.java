@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.arrays.object;
 /**
  * 实例类
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class UserModel {
     private int uuid;

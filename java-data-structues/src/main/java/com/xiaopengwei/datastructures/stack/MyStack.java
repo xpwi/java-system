@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.stack;
 /**
  * 演示基本的栈的操作
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class MyStack {
     private int[] datas;

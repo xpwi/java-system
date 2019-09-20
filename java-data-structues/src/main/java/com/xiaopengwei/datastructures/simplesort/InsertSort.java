@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.simplesort;
 /**
  * 演示插入法排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class InsertSort {
     public void insertSort(int[] as) {

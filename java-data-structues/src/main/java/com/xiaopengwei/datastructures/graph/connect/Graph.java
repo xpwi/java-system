@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph.connect;
 /**
  * 演示有向图的连通性
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Graph {
 	/**

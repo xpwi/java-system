@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 演示用递归来解决背包问题
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Bags {
     /**

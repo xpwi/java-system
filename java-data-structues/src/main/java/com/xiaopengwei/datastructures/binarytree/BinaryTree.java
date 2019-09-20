@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.binarytree;
 /**
  * 演示二叉树的操作
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class BinaryTree {
 	/**

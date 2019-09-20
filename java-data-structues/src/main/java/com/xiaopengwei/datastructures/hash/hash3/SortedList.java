@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.hash.hash3;
 /**
  * 封装链表对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class SortedList {
     private Link first;

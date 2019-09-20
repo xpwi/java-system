@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph2.mst;
 /**
  * 演示优先级队列
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class PriorityQueue {
 	/**

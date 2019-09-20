@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.recursive;
 /**
  * 用来演示直接使用数据操作有序数组,存放不重复的值
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class OperateOrderNoIndexBinarySearch {
     private int[] datas = null;

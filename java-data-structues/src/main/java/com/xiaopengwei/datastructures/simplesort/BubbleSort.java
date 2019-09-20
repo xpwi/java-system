@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.simplesort;
 /**
  * 演示冒泡排序算法
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class BubbleSort {
     public void bubbleSort(int[] as) {

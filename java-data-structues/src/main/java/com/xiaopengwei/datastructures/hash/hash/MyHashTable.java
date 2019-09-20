@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.hash.hash;
 /**
  * 演示采用线性探测法解决冲突的Hash表
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class MyHashTable {
     private DataItem[] hashArray;

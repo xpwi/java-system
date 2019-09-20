@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.linklist;
 /**
  * 结点 2
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class LinkNode2 {
     private int id;

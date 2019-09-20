@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 用来演示直接使用数据操作有序数组,可存放重复值
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class OperateOrderNoIndexRepeatable {
 	private int[] datas = null;

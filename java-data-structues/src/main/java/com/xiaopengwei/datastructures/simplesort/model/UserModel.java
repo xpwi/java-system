@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.simplesort.model;
 /**
  * 实例类
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class UserModel {
     private int uuid;

@@ -1,6 +1,6 @@
-package com.xiaopengwei.algorithm.sort;
+package com.xiaopengwei.algorithm.a01sort;
 
-import com.xiaopengwei.algorithm.sort.base.SortBase;
+import com.xiaopengwei.algorithm.a01sort.base.SortBase;
 
 /**
  * <p>

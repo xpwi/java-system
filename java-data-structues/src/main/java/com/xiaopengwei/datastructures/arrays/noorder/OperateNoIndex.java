@@ -4,7 +4,7 @@ package com.xiaopengwei.datastructures.arrays.noorder;
  * 用来演示直接使用数据操作无序数组, 存放不可重复的值
  * 所有文件编码为：UTF-8，若中文乱码请设置开发工具编码
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class OperateNoIndex {
     private int[] datas = null;
@@ -15,7 +15,7 @@ public class OperateNoIndex {
      * 这里自在内部实例化，可能会提示
      *
      * @param length 长度
-     * @author XiaoPengwei.com
+     * @author xpwi
      */
     public OperateNoIndex(int length) {
         datas = new int[length];

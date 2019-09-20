@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.recursive;
 /**
  * 演示斐波那契数列
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Fabonacci {
     /**

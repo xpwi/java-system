@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph.topo;
 /**
  * 用来描述顶点的对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class Vertex {
 	private String label;

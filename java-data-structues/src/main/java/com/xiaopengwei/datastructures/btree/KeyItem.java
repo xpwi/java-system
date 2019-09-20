@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.btree;
 /**
  * 用来封装数据识别项的对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class KeyItem {
 	private int id;

@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.graph.bfs;
 /**
  * 演示基本的队列，循环队列
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class MyQueue {
 	/**

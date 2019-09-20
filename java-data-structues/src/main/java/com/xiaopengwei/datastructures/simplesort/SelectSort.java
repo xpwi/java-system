@@ -3,7 +3,7 @@ package com.xiaopengwei.datastructures.simplesort;
 /**
  * 演示选择排序
  *
- * @author XiaoPengwei.com
+ * @author xpwi
  */
 public class SelectSort {
     public void selectSort(int[] as) {
