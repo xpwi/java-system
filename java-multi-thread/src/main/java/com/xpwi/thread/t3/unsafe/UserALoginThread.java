@@ -1,0 +1,1 @@
+package com.xpwi.thread.t3.unsafe;/** * <p> * A登录 * * @author XiaoPengwei * @since 2019-04-24 */public class UserALoginThread extends Thread {    @Override    public void run() {        LoginServlet.doPost("userA","passwordA");    }}
