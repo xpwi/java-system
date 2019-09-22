@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 每次拿到一个余数，都用来构造新数，新数=新数*10+余数
  * 所以经过四次循环后，我们得到新数 4321 ，如果是回文，那么新数应该等于原数，否则，说明不是回文。
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-13
  */
 public class AbaNums {

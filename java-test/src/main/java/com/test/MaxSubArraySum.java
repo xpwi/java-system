@@ -6,7 +6,7 @@ import java.util.Scanner;
  * <p>
  * 连续子数组最大和
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-09
  */
 public class MaxSubArraySum {

@@ -3,7 +3,7 @@ package com.xpwi.datastructures.tree234;
 /**
  * 用来封装2-3-4树节点的对象
  *
- * @author XiaoPengwei.com
+ * @author xpwi.com
  */
 public class Node234 {
     /**

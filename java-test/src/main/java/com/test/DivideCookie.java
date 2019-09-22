@@ -8,7 +8,7 @@ import java.util.*;
  * 例如：363562
  *
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-13
  */
 public class DivideCookie {

@@ -4,7 +4,7 @@ package com.xpwi.ali;
  * <p>
  * 已知 sqrt (2)约等于1.414，要求不用数学库，求sqrt (2)精确到小数点后 10 位。
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-08-28
  */
 public class Ali02sqrt {

@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * <p>
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-11
  */
 public class MinimumCoins {

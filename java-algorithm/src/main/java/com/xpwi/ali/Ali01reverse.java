@@ -4,7 +4,7 @@ package com.xpwi.ali;
  * <p>
  * 如何实现一个高效的单向链表逆序输出？
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-08-27
  */
 public class Ali01reverse {

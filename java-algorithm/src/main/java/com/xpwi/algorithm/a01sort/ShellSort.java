@@ -4,7 +4,7 @@ package com.xpwi.algorithm.a01sort;
  * <p>
  * 希尔排序
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-08-14
  */
 public class ShellSort {

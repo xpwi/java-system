@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f37e7034-b7d2-46e0-ac80-9b7cc70a052d" name="Default Changelist" comment="20190922">
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02brackets/检查表达式中括号是否匹配.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse/ListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse/单链表反转.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04maxSubStringSum/a04maxSubStringSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC01TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC02TwoAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC03LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/排序算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/check/ValidCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02brackets/ValidCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/commontest/Algorithm01StackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/leetcode/LC01TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/leetcode/LC02TwoAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/leetcode/LC03LongestSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/leetcode/LC04FindMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC04FindMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/leetcode/LC05Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC05Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali01reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali01reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali02sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali02sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali03kthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali03kthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/base/CLassLoadSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/base/CLassLoadSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/base/SortBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/offer/O3Duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-data-structues/src/main/java/com/xpwi/datastructures/tree234/Node234.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-data-structues/src/main/java/com/xpwi/datastructures/tree234/Node234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/SynchronizedLoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/SynchronizedLoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/SynchronizedLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/SynchronizedLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/UserALoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/UserALoginThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/UserBLoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/synchronizeSafe/UserBLoginThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/UserALoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/UserALoginThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/UserBLoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t3/unsafe/UserBLoginThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CountOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CountOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CurrentThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/CurrentThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t4/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/CountOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/CountOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/CountOperateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/CountOperateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/ThreadIsAliveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t5/ThreadIsAliveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t6/MyThreadGetId.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t6/MyThreadGetId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t7/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t7/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t7/MyThreadInterrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t7/MyThreadInterrupt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/ThreadInterrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/ThreadInterrupted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/ThreadIsInterrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/t8/ThreadIsInterrupted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/guazi/Q2MinimumCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/guazi/Q2MinimumCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/guazi/Q3GetLostString.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/guazi/Q3GetLostString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/AbaNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/AbaNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/Judge2N.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/Judge2N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/MaxSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/MaxSubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/MinimumCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/MinimumCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test/src/main/java/com/test/WordReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test/src/main/java/com/test/WordReverse.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/排序算法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="4" selection-start-column="4" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02search/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03brackets/ValidCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/ListReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/单链表反转.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/MaxSubStringSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/最大连续连续子序列和.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversal/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Thread</find>
+      <find>q</find>
+      <find>hashCode</find>
+      <find>Xiaopengwei.com</find>
+      <find>partitionA.length</find>
+      <find>Xiaopengwei</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>listNode2</replace>
+      <replace>xpwi</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/test/CLassLoadSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/base/CLassLoadSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/MaxSubStringSum.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/Combination.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/commontest/Combination.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/commontest/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/java-data-structues/src/main/java/com/xiaopengwei/datastructures/superiorsort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/commontest/MaxSubStringSum.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/commontest/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/java-test/src/main/java/Main1.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/README.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/check/ValidCheck.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/sort.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/java-test/src/main/java/Main2.java" />
+        <option value="$PROJECT_DIR$/java-test/src/main/java/Main3.java" />
+        <option value="$PROJECT_DIR$/java-test/src/main/java/Main4.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/RadixSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/README.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/CountingSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/Main.java" />
+        <option value="$PROJECT_DIR$/java-test/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02brackets/检查表达式中括号是否匹配.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02brackets/ValidCheck.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse/a03reverse.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse/单链表反转.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/commontest/Algorithm01StackDemo.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/commontest/StackDemo.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04maxSubStringSum.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04maxSubStringSum/最大连续连续子序列和.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03reverse/ListReverse.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/search/二分查找.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversalOfTree/二叉树前序-中序-后序-蛇形.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversalOfTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03brackets/ValidCheck.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03brackets/检查表达式中括号是否匹配.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/ListReverse.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/单链表反转.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/MaxSubStringSum.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/最大连续连续子序列和.md" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversal/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversal/二叉树前序-中序-后序-蛇形.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="15" />
+    <option name="width" value="1945" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectId" id="1QrOTyvHDWL5fcuXxvxisNAhraW" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a01sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a02search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a03brackets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a04reverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a04reverse" type="462c0819:PsiDirectoryNode" />
+              <item name="ListReverse.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a05maxSubStringSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a06traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="a06traversal" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+              <item name="Ali03kthNode.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="CLassLoadSort.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-system" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xpwi" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="LC02TwoAdd.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569165310394" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm" />
+    <property name="last_opened_file_path" value="D:/springboot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java-system\java-algorithm4\src\main\java" />
+      <recent name="D:\java-system\java-multi-thread\src\main\java\com\xiaopengwei\thread\t3\threadSafe\synchronizeSafe" />
+      <recent name="D:\java-system\java-multi-thread\src\main\java\com\xiaopengwei\thread\test" />
+      <recent name="D:\java-system\java-data-structues\src\main\java" />
+      <recent name="D:\java-system\java-algorithm\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.guazi" />
+      <recent name="com.xiaopengwei.test" />
+      <recent name="com.xiaopengwei.algorithmv4.base" />
+      <recent name="com.xiaopengwei.algorithm.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-system\java-algorithm\src\main\java\com\xpwi\algorithm\a06traversal" />
+      <recent name="D:\java-system\java-algorithm\src\main\java\com\xiaopengwei\algorithm\sort" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MaxSubStringSum">
+    <configuration name="Algorithm01StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xpwi.algorithm.commontest.Algorithm01StackDemo" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xpwi.algorithm.a05maxSubStringSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xpwi.algorithm.a04reverse.ListReverse" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xpwi.algorithm.a04reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubStringSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xpwi.algorithm.a05maxSubStringSum.MaxSubStringSum" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xpwi.algorithm.a05maxSubStringSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xpwi.algorithm.a01sort.ShellSort" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xpwi.algorithm.a01sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ListReverse" />
+      <item itemvalue="Application.Algorithm01StackDemo" />
+      <item itemvalue="Application.MaxSubStringSum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxSubStringSum" />
+        <item itemvalue="Application.Algorithm01StackDemo" />
+        <item itemvalue="Application.ListReverse" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ShellSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f37e7034-b7d2-46e0-ac80-9b7cc70a052d" name="Default Changelist" comment="" />
+      <created>1555899530115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555899530115</updated>
+      <workItem from="1555899533104" duration="4824000" />
+      <workItem from="1555908380980" duration="12627000" />
+      <workItem from="1555924513478" duration="1137000" />
+      <workItem from="1555932361229" duration="6944000" />
+      <workItem from="1555979286426" duration="11000" />
+      <workItem from="1556016716758" duration="1898000" />
+      <workItem from="1556028925597" duration="128000" />
+      <workItem from="1556072809721" duration="13628000" />
+      <workItem from="1556093631053" duration="1631000" />
+      <workItem from="1556173252236" duration="4459000" />
+      <workItem from="1556208546784" duration="287000" />
+      <workItem from="1556329694462" duration="7616000" />
+      <workItem from="1556352976092" duration="618000" />
+      <workItem from="1556442040020" duration="5647000" />
+      <workItem from="1557472130629" duration="1945000" />
+      <workItem from="1557493673675" duration="3002000" />
+      <workItem from="1557551763456" duration="17419000" />
+      <workItem from="1557669642123" duration="778000" />
+      <workItem from="1557709581788" duration="599000" />
+      <workItem from="1557830181807" duration="7332000" />
+      <workItem from="1557889119815" duration="753000" />
+      <workItem from="1557894732205" duration="8561000" />
+      <workItem from="1557972523483" duration="457000" />
+      <workItem from="1557973776384" duration="693000" />
+      <workItem from="1558403510630" duration="725000" />
+      <workItem from="1560428945745" duration="987000" />
+      <workItem from="1560914160740" duration="54000" />
+      <workItem from="1560936047271" duration="4000" />
+      <workItem from="1563079752710" duration="22492000" />
+      <workItem from="1563118606961" duration="600000" />
+      <workItem from="1563150586073" duration="232000" />
+      <workItem from="1563264893856" duration="3000" />
+      <workItem from="1563885979451" duration="468000" />
+      <workItem from="1564482139664" duration="3569000" />
+      <workItem from="1564493484232" duration="1459000" />
+      <workItem from="1565324471250" duration="2081000" />
+      <workItem from="1565326656576" duration="29000" />
+      <workItem from="1565410097870" duration="633000" />
+      <workItem from="1565782061456" duration="12184000" />
+      <workItem from="1565800844238" duration="1780000" />
+      <workItem from="1565873293771" duration="1700000" />
+      <workItem from="1565880410068" duration="2132000" />
+      <workItem from="1565968576470" duration="2729000" />
+      <workItem from="1565975828490" duration="4325000" />
+      <workItem from="1566007534008" duration="18167000" />
+      <workItem from="1566573816046" duration="1001000" />
+      <workItem from="1566635319184" duration="5894000" />
+      <workItem from="1566652838573" duration="596000" />
+      <workItem from="1566713866058" duration="12067000" />
+      <workItem from="1566912748985" duration="9810000" />
+      <workItem from="1566952166099" duration="6157000" />
+      <workItem from="1567154898730" duration="2677000" />
+      <workItem from="1567230134076" duration="5238000" />
+      <workItem from="1567302257603" duration="8790000" />
+      <workItem from="1567338220614" duration="9185000" />
+      <workItem from="1567599096329" duration="1196000" />
+      <workItem from="1567736371973" duration="607000" />
+      <workItem from="1567834994760" duration="588000" />
+      <workItem from="1568007746242" duration="3350000" />
+      <workItem from="1568080764328" duration="4211000" />
+      <workItem from="1568163008801" duration="9101000" />
+      <workItem from="1568252880757" duration="12330000" />
+      <workItem from="1568351254273" duration="4177000" />
+      <workItem from="1568369583780" duration="11502000" />
+      <workItem from="1568437255798" duration="1061000" />
+      <workItem from="1568468125949" duration="5097000" />
+      <workItem from="1568523685643" duration="1086000" />
+      <workItem from="1568525274847" duration="1000" />
+      <workItem from="1568526614764" duration="68000" />
+      <workItem from="1568527547451" duration="627000" />
+      <workItem from="1568528262945" duration="135000" />
+      <workItem from="1568528803732" duration="10145000" />
+      <workItem from="1568603336798" duration="13166000" />
+      <workItem from="1568647603937" duration="1104000" />
+      <workItem from="1568681009126" duration="590000" />
+      <workItem from="1568689351108" duration="14525000" />
+      <workItem from="1568767915802" duration="6638000" />
+      <workItem from="1568854945823" duration="10719000" />
+      <workItem from="1568944754658" duration="16020000" />
+      <workItem from="1569049126843" duration="9217000" />
+      <workItem from="1569076265682" duration="2201000" />
+      <workItem from="1569150617407" duration="5308000" />
+    </task>
+    <task id="LOCAL-00001" summary="add ignore file">
+      <created>1565802420120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565802420120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20190917">
+      <created>1568708803088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568708803088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20190918">
+      <created>1568791994705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568791994705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20190920">
+      <created>1568945272055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568945272055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="20190921">
+      <created>1569077863658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569077863658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90395000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49685535" visible="true" weight="0.29490617" />
+      <window_info id="Structure" order="1" sideWeight="0.5031447" side_tool="true" weight="0.28284183" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27234042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36879432" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ignore file" />
+    <MESSAGE value="20190917" />
+    <MESSAGE value="20190918" />
+    <MESSAGE value="20190920" />
+    <MESSAGE value="20190921" />
+    <MESSAGE value="20190922" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190922" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-test/src/main/java/com/test/DivideCookie.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/base/SortBase.java" />
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xiaopengwei/algorithm/a01sort/sort.md" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="440" column="25" selection-start-line="440" selection-start-column="25" selection-end-line="440" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/Main1.java" />
+    <entry file="file://$PROJECT_DIR$/java-data-structues/src/main/java/com/xpwi/datastructures/binarytree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-data-structues/src/main/java/com/xpwi/datastructures/btree/BTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/Main3.java" />
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/Main4.java" />
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-multi-thread/src/main/java/com/xpwi/thread/Test.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/com/guazi/Q2MinimumCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/commontest/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/base/SortBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/offer/O3Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04maxSubStringSum/a04maxSubStringSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/commontest/Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/exchange/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/search/二分查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/stackDemo/BracketsJudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03brackets/检查表达式中括号是否匹配.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC05Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC04FindMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC03LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/leetcode/LC02TwoAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="104" column="6" selection-start-line="104" selection-start-column="6" selection-end-line="104" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/base/CLassLoadSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali02sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali03kthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/ali/Ali01reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversal/二叉树前序-中序-后序-蛇形.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a01sort/排序算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a03brackets/ValidCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/ListReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a04reverse/单链表反转.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/MaxSubStringSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a05maxSubStringSum/最大连续连续子序列和.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a06traversal/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithm/src/main/java/com/xpwi/algorithm/a02search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-system</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

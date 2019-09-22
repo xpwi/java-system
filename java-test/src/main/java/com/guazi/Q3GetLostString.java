@@ -6,7 +6,7 @@ import java.util.Scanner;
  * <p>
  * https://www.nowcoder.com/profile/3909462/test/27548379/587674
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-14
  */
 public class Q3GetLostString {

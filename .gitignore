@@ -38,7 +38,7 @@ java-algorithm/src/test/
 java-algorithm/target/
 java-data-structues/src/main/resources/
 java-data-structues/src/test/
-java-multi-thread/src/main/java/com/xiaopengwei/thread/t3/threadSafe/
+java-multi-thread/src/main/java/com/xpwi/thread/t3/threadSafe/
 java-multi-thread/src/main/resources/
 java-multi-thread/src/test/
 java-system.iml

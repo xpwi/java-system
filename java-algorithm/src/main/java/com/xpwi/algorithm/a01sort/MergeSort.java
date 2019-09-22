@@ -6,7 +6,7 @@ import java.util.Arrays;
  * <p>
  * 合并排序
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-08-14
  */
 public class MergeSort {

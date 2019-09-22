@@ -4,7 +4,7 @@ package com.test;
  * <p>
  *     判断一个数为2的n次方
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-10
  */
 public class Judge2N {

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 为了防止溢出，请将答案 Mod 1000000007
  * 1000000007 是最小的十位质数。模 1000000007，可以保证值永远在 int 的范围内。
  *
- * @author XiaoPengwei
+ * @author xpwi
  * @since 2019-09-14
  */
 public class Q2MinimumCoins {
