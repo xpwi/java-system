@@ -1,4 +1,4 @@
-package com.xpwi.algorithm.a06traversal;
+package com.xpwi.algorithm.a06traversalOfTree;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -122,7 +122,9 @@ public class BinaryTree {
         }
     }
 
-    //层序遍历
+    /**
+     * 层序遍历
+     */
     public void levelOrder(BinaryTreeNode root) {
         BinaryTreeNode temp;
         Queue<BinaryTreeNode> queue = new LinkedList<BinaryTreeNode>();
