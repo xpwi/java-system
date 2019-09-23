@@ -1,10 +1,12 @@
 package com.xpwi.algorithm.a06traversal;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
 /**
  * <p>
+ * 二叉树前序-中序-后序-蛇形
  *
  * @author xpwi
  * @since 2019-09-17
@@ -12,6 +14,7 @@ import java.util.Stack;
 public class BinaryTree {
     /**
      * 前序遍历 - 递归的方式
+     *
      * @param root BinaryTreeNode
      */
     public void preOrder(BinaryTreeNode root) {
@@ -25,6 +28,7 @@ public class BinaryTree {
 
     /**
      * 前序遍历 - 非递归的方式
+     *
      * @param root BinaryTreeNode
      */
     public void preOrderNonRecursive(BinaryTreeNode root) {
