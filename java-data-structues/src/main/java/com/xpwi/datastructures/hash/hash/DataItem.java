@@ -3,7 +3,7 @@ package com.xpwi.datastructures.hash.hash;
 /**
  * 封装hash化的数据对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class DataItem {
     private int id;

@@ -7,7 +7,7 @@ import java.util.Map;
  * <p>
  * 03:给定一个字符串，请你找出其中不含有重复字符的最长子串的长度。
  *
- * @author xpwi
+ * @author github.com/xpwi
  * @since 2019-07-14
  */
 public class LC03LongestSubstring {
@@ -81,7 +81,7 @@ public class LC03LongestSubstring {
      *
      * @param s 字符串参数
      * @return int 长度
-     * @author guanpengchn
+     * @author github.com/xpwiguanpengchn
      * @link https://leetcode-cn.com/problems/two-sum/solution/hua-jie-suan-fa-3-wu-zhong-fu-zi-fu-de-zui-chang-z/
      */
     public static int lengthOfLongestSubstringMethod2(String s) {

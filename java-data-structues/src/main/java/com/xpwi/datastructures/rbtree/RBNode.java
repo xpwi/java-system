@@ -3,7 +3,7 @@ package com.xpwi.datastructures.rbtree;
 /**
  * 用来封装红黑树的节点对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class RBNode {
     private int id;

@@ -4,7 +4,7 @@ package com.xpwi.leetcode;
  * <p>
  * 最长会问子串
  *
- * @author xpwi
+ * @author github.com/xpwi
  * @since 2019-08-31
  */
 public class LC05Palindrome {

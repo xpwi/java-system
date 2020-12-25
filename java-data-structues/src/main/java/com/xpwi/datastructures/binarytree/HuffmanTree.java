@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 演示应用Haffman算法来实现压缩和解压
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class HuffmanTree {
 	public String decompress(String fileName){

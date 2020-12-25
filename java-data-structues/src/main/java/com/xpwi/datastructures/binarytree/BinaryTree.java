@@ -3,7 +3,7 @@ package com.xpwi.datastructures.binarytree;
 /**
  * 演示二叉树的操作
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class BinaryTree {
 	/**
@@ -250,9 +250,9 @@ public class BinaryTree {
 		t.insert(9,233);
 
 //		System.out.println(t.root.toString());
-//		
+//
 //		t.inOrder(t.find(6));
-//		
+//
 //		Node min = t.getMinNode();
 //		Node max = t.getMaxNode();
 //		System.out.println("min=="+min);

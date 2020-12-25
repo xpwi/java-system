@@ -3,7 +3,7 @@ package com.xpwi.datastructures.btree;
 /**
  * 用来封装B树节点的对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class BTreeNode {
 	/**

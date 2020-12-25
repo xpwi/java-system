@@ -3,7 +3,7 @@ package com.xpwi.datastructures.binarytree;
 /**
  * Haffman树的节点对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class HuffmanNode {
 	/**

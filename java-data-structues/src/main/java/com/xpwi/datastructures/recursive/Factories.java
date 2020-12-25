@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * 演示递归求阶乘
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Factories {
     //N! = N * (N-1)!

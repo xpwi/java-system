@@ -3,7 +3,7 @@ package com.xpwi.datastructures.linklist;
 /**
  * 演示链表来实现基本的队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyLinkListQueue {
     private FirstLastList theList = new FirstLastList();

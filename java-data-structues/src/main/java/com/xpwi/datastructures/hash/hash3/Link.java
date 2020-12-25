@@ -3,7 +3,7 @@ package com.xpwi.datastructures.hash.hash3;
 /**
  * 用来封装链表的一个节点对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Link {
     private int id;

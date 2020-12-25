@@ -3,7 +3,7 @@ package com.xpwi.datastructures.stack;
 /**
  * 演示应用栈来实现字符串倒转
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Reverse {
     public String doRev(String str) {

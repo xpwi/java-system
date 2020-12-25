@@ -3,7 +3,7 @@ package com.xpwi.datastructures.superiorsort;
 /**
  * 演示基数排序
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class RadixSort {
     /**

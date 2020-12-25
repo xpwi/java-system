@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph2.path;
 /**
  * 演示带权图的迪杰斯特拉算法
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Graph {
 	private final int MAXNUM = 10000000;

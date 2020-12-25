@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph2.mst;
 /**
  * 演示优先级队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class PriorityQueue {
 	/**
@@ -89,16 +89,16 @@ public class PriorityQueue {
 //		t.insert(3);
 //		t.insert(4);
 //		t.insert(1);
-//		
+//
 //		t.printQueue();
-//		
+//
 //		int ret = t.peekFront();
 //		System.out.println("now ret=="+ret);
-//		
+//
 //		t.remove();
 //		int ret2 = t.remove();
 //		System.out.println("now ret2=="+ret2);
-//		
+//
 //		t.printQueue();
 
 	}

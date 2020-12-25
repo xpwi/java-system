@@ -3,7 +3,7 @@ package com.xpwi.datastructures.tree234;
 /**
  * 用来封装数据识别项的对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class KeyItem {
     private int id;

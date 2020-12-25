@@ -6,7 +6,7 @@ package com.xpwi.leetcode;
  * 请你找出这两个有序数组的中位数，并且要求算法的时间复杂度为 O(log(m + n))。
  * 你可以假设 nums1 和 nums2 不会同时为空。
  *
- * @author xpwi
+ * @author github.com/xpwi
  * @since 2019-07-30
  */
 public class LC04FindMedian {
@@ -27,7 +27,7 @@ public class LC04FindMedian {
      * @param B int[]
      * @return double
      */
-    public static double findMedianSortedArrays(int[] A, int[] B) {
+    private static double findMedianSortedArrays(int[] A, int[] B) {
         int m = A.length;
         int n = B.length;
 

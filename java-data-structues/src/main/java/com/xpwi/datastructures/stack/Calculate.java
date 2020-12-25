@@ -3,7 +3,7 @@ package com.xpwi.datastructures.stack;
 /**
  * 演示使用栈来计算后缀表达式，只计算0-9的数值
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Calculate {
     /**

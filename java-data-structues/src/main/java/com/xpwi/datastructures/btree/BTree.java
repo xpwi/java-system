@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 演示B树的操作
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class BTree {
 	/**

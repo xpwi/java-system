@@ -3,7 +3,7 @@ package com.xpwi.datastructures.linklist;
 /**
  * 演示有序链表的基本操作
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class SortedLinkList {
     private LinkNode firstNode;

@@ -3,7 +3,7 @@ package com.xpwi.datastructures.heap;
 /**
  * 演示堆操作的对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Heap {
     private Node[] heapArray;

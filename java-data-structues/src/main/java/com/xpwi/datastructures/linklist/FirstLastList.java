@@ -3,7 +3,7 @@ package com.xpwi.datastructures.linklist;
 /**
  * 演示双端链表
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class FirstLastList {
     private LinkNode firstNode;

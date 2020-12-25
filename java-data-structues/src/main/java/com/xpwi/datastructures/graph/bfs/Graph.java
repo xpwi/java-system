@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph.bfs;
 /**
  * 演示图(无向)的广度优先遍历
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Graph {
 	/**

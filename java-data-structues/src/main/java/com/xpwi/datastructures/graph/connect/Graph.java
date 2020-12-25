@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph.connect;
 /**
  * 演示有向图的连通性
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Graph {
 	/**

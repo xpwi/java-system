@@ -3,7 +3,7 @@ package com.xpwi.datastructures.arrays.object;
 /**
  * 用来演示直接使用数据操作有序数组,存放不重复的 对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class OperateOrderNoIndexObject {
     private UserModel[] datas;

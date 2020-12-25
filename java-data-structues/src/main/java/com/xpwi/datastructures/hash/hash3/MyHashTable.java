@@ -3,7 +3,7 @@ package com.xpwi.datastructures.hash.hash3;
 /**
  * 演示采用链地址法解决冲突的Hash表
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyHashTable {
     private SortedList[] hasArray;

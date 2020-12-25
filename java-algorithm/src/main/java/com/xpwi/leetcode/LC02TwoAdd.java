@@ -6,7 +6,7 @@ package com.xpwi.leetcode;
  * 如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。
  * 您可以假设除了数字 0 之外，这两个数都不会以 0 开头。
  *
- * @author xpwi
+ * @author github.com/xpwi
  * @since 2019-07-14
  */
 public class LC02TwoAdd {

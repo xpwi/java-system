@@ -3,7 +3,7 @@ package com.xpwi.datastructures.hash.hash2;
 /**
  * 演示采用再哈希法解决冲突的Hash表
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyHashTable {
     private DataItem[] hashArray;

@@ -3,7 +3,7 @@ package com.xpwi.datastructures.stack;
 /**
  * 演示用栈来检查表达式中括号(小、中、大)是否成对出现
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class CheckBrackets {
     public void check(String str) {

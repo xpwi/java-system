@@ -3,7 +3,7 @@ package com.xpwi.datastructures.stack;
 /**
  * 演示基本的栈的操作
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyStack {
     private int[] datas;

@@ -2,15 +2,15 @@ package com.xpwi.datastructures.queue;
 
 /**
  * <p>
- *   
  *
- * @author xpwi
+ *
+ * @author github.com/xpwi
  * @since 2019-04-23
  */
 /**
  * 演示基本的队列，循环队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyQueue {
     /**

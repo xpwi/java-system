@@ -3,7 +3,7 @@ package com.xpwi.datastructures.rbtree;
 /**
  * 演示红黑树的操作
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class RBTree {
     /**
@@ -571,11 +571,11 @@ public class RBTree {
         //设置相应的值
 //		if(successor!=delNode.getRightChild()){
 //			successorParent.setLeftChild(successor.getRightChild());
-//			
+//
 //			if(successor.getRightChild()!=null){
 //				successor.getRightChild().setParent(successorParent);
 //			}
-//			
+//
 //			successor.setRightChild(delNode.getRightChild());
 //			delNode.getRightChild().setParent(successor);
 //		}

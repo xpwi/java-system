@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph2.mst;
 /**
  * 演示带权图的最小生成树
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Graph {
 	/**

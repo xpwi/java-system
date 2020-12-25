@@ -3,7 +3,7 @@ package com.xpwi.datastructures.hash.hash3;
 /**
  * 封装链表对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class SortedList {
     private Link first;

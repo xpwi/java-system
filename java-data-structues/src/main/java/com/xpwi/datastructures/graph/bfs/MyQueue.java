@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph.bfs;
 /**
  * 演示基本的队列，循环队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MyQueue {
 	/**

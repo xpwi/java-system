@@ -3,7 +3,8 @@ package com.xpwi.datastructures.superiorsort;
 /**
  * 演示希尔排序
  *
- * @author xpwi
+ * @author github.com/xpwi
+ * @since 2019-09-17
  */
 public class ShellSort {
 

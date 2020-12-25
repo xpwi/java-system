@@ -3,7 +3,7 @@ package com.xpwi.datastructures.recursive;
 /**
  * 演示使用递归来实现归并排序
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class MergeSort {
     /**

@@ -3,7 +3,7 @@ package com.xpwi.datastructures.binarytree;
 /**
  * Huffman算法使用的优先级队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class HuffmanPriorityQueue {
 	/**

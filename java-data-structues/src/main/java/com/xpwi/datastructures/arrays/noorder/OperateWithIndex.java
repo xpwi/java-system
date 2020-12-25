@@ -3,7 +3,7 @@ package com.xpwi.datastructures.arrays.noorder;
 /**
  * 用来演示通过索引操作无序数组
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class OperateWithIndex {
     private int[] datas = null;

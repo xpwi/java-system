@@ -5,7 +5,7 @@ import com.xpwi.datastructures.simplesort.model.UserModel;
 /**
  * 排序
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class ObjectSort {
     public void objectSort(UserModel[] ums) {

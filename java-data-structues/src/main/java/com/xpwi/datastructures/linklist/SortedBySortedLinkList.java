@@ -3,7 +3,7 @@ package com.xpwi.datastructures.linklist;
 /**
  * 排序
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class SortedBySortedLinkList {
     public int[] sort(int[] as) {

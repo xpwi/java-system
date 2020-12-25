@@ -3,7 +3,7 @@ package com.xpwi.datastructures.queue;
 /**
  * 演示优先级队列
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class PriorityQueue {
     /**

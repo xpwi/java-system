@@ -9,7 +9,7 @@ package com.xpwi.base;
  * 3.子类的成员变量，非静态代码块（同类内它俩按顺序）
  * 4.子类的构造函数
  *
- * @author xpwi
+ * @author github.com/xpwi
  * @since 2019-08-17
  */
 public class CLassLoadSort {

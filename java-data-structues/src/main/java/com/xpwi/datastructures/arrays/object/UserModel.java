@@ -3,7 +3,7 @@ package com.xpwi.datastructures.arrays.object;
 /**
  * 实例类
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class UserModel {
     private int uuid;

@@ -3,7 +3,7 @@ package com.xpwi.datastructures.stack;
 /**
  * 演示用栈来实现 把中缀表达式转换成为后缀表达式
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class PostInfix {
     /**

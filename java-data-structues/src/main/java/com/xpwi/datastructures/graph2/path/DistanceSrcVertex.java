@@ -3,7 +3,7 @@ package com.xpwi.datastructures.graph2.path;
 /**
  * 用来封装源点和距离的对象
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class DistanceSrcVertex {
 	private int srcVertex;

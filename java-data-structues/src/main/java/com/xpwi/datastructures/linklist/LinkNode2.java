@@ -3,7 +3,7 @@ package com.xpwi.datastructures.linklist;
 /**
  * 结点 2
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class LinkNode2 {
     private int id;

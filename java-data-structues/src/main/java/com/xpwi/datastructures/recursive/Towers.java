@@ -3,7 +3,7 @@ package com.xpwi.datastructures.recursive;
 /**
  * 演示用递归来解决汉诺塔问题
  *
- * @author xpwi
+ * @author github.com/xpwi
  */
 public class Towers {
     /**
