@@ -14,7 +14,7 @@ public class QuickSort {
      * @param left
      * @param right
      */
-    public void quickSort(int[] as, int left, int right) {
+    private void quickSort(int[] as, int left, int right) {
         //退出条件
         //每次要操作的数据项
         int size = right - left + 1;
