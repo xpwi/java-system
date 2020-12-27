@@ -1,4 +1,4 @@
-package com.xpwi.algorithm.common;
+package com.xpwi.algorithm.common.a07snackPrintTree;
 
 import java.util.ArrayList;
 import java.util.Deque;
